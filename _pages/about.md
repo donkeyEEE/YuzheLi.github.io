@@ -13,10 +13,13 @@ redirect_from:
 
 #### 研究方向
 • 计算毒理学
+
 • 智慧健康和环境
 
 
 #### 编程技能
 • 编程语言 Python, C, R
+
 • 平台工具: git, LaTeX
+
 • Python 编程框架: PyTorch, scikit-learn, LangChain
