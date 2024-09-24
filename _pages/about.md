@@ -7,10 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate student studying at Beihang University in Beijing, with a strong interest in the application of machine learning and computational science to environmental science.My current research interest lies in using graph neural network methods, in combination with experimental collaborations, to screen and validate the toxicity of unknown compounds.This motivates my work on the current project,utilizing both conventional machine learning models and neural networks in combination,to predict the acute toxicity of compounds.
+本科就读于北京航空航天大学环境工程系，现在正在北航材料科学与工程攻读博士学位。
 
-In addition to my major courses, I am studying relevant knowledge on C++ programming and front-end web development.But my most familiar programming language is Python, and I have implemented models for my project using Python. I have also studied Statistical learning methods, C programming language, and Machine Learning (also known as "the Watermelon Book").
+课题组方向为智慧健康和环境风险，我的研究方向为环境大数据和化合物风险评估。本人擅长并且正在学习数据科学相关内容。本人擅长并且正在学习数据科学相关内容，特别是在数据分析和机器学习方面。
 
-As someone who is not particularly outgoing, the few sports that I enjoy is table tennis. In terms of music, I have recently developed an interest in Beijing opera, but what makes for a stark contrast is that I also enjoy listening to hip-hop and rock music.
+#### 研究方向
+• 计算毒理学
+• 智慧健康和环境
 
-This webpage references Kevin Greenman,my idol in research field.
+
+#### 编程技能
+• 编程语言 Python, C, R
+• 平台工具: git, LaTeX
+• Python 编程框架: PyTorch, scikit-learn, LangChain
